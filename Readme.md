@@ -1,0 +1,1 @@
+Created a fun weather app to test out the functionality of react-native
